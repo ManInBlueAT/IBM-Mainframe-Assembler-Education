@@ -8,7 +8,7 @@ Before I continue to describe my project I want to point out that the **IBM main
 Basis for my studies for this project was mainly this book in German (that I bought mid of the 80ies from the Vienna TU bookstore and did not use before recently): Clarence B. Germain, Rüdiger Gritsch, Das Programmier-Handbuch der IBM-DV-Systeme, 8th ed, Hanser 1983. It is a translation by Gritsch with updates of Germain's book on programming the IBM 360.
 
 <div align="left">
-  <img src="" width="800px">
+  <img src="https://github.com/ManInBlueAT/IBM-Mainframe-Assembler-Education/blob/main/Germain%20Gritsch%201983.jpg" width="800px">
 </div>
 <br>
  
