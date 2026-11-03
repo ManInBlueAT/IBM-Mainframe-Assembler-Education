@@ -30,7 +30,7 @@ This is the main goal of the project: The Towers of Hanoi in IBM Mainframe Assem
 
 And there is an iterative version. A sample output is [here](https://github.com/ManInBlueAT/IBM-Mainframe-Assembler-Education/blob/main/AL/Hanoi%20iter%20ASM%20TK4-%20HANOIASM%20955%2001%20NOV%2026%208.50.50%20PM.pdf). The iterative version includes a dynamically allocated storage area as well. Its size is dependent on the number of slices entered as parameter.
 
-The output files show the assembly steps for the recursive code segment, the iterative code segment and the main code segment, the link step and the appropriate go step.
+The output files show the assembly steps for the recursive code segment, the iterative code segment and the main code segment, the link step and the appropriate go step. You can select using the recursive or the iterative algorithm by setting the appropriate parameter in the input record.
 ## Have Fun!
 I hope that you enjoy looking at the programs that run on this vintage mainframe version!
 ## Disclaimer
